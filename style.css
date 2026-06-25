@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: cadetblue;
+    border: 2px solid  white;
+}
+.headlines{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
